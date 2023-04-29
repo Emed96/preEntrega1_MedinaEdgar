@@ -1,5 +1,6 @@
 .CartWidget {
     display: flex;
+    cursor: pointer;
 }
 
 .cartIcon {
